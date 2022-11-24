@@ -1,2 +1,2 @@
-#ZEUS GREETING
-echo "Hola! Bienvenidos a AudioTuning Accessories 🚗" | lolcat
+#ZEUS' GREETING
+echo "Guauf Guauf! Bienvenidos a AudioTuning Accessories 🚗" | lolcat
