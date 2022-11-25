@@ -1,2 +1,2 @@
 # misc
-My miscellaneous bash scripts
+My miscellaneous bash scripts🤖🐱‍👤🤠
