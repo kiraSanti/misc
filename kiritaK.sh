@@ -1,1 +1,1 @@
-echo "Kirita hermosa, mi vaquita... te extraño mucho, te mando un besito y un abrazo 🐕❤️" | lolcat
+echo "Kirita hermosa, mi vaquita 🐄 Te extraño mucho, te mando un besito y un abrazo 🐕❤️" | lolcat
